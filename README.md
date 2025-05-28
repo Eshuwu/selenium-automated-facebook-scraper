@@ -43,16 +43,16 @@ Features:
 8.shows all the status of the process, such as visitng a site, skipping a group and extracted information along with the percentage of the details grabbed.
 
 
-
+Note: Do noy commit any changes, please fork it.
 Execution:
 Since it works on chrome ,download chrome drive according to you architecture from here: https://developer.chrome.com/docs/chromedriver/downloads
 Before running the script, make sure that you have the required modules, if not run the commands in the terminal(mentioned in requirement.txt)
 How to run this:
-1. download the the webdriver and in the 16th line replace ot with your driver's location
+1. download the webdriver and in the 16th line replace it with your driver's location
 2. download all the required modules in the project's directory itself
 3. make sure to make an account on jsonbin.io and replace it with your key at 19th line
 4.In the 24-25th line replace with the path of where you want to store yopur excel file.
-5.Youre good to run the script,just make sure during the process none of the CSV files or the json bin is opened.
+5.Youre good to run the script,just make sure during the process none of the CSV files or the json bin is running.
 
 
 
