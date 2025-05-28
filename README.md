@@ -5,9 +5,9 @@ What it does?
 
 Well recently I saw many people in sales/data analysis,that they have to manually look for information to be analysed
 
-The script solves this issue by providing an architecture,an automated scraping that would specifically for the website you want to work with , with the help of Selenium. 
+The script solves this issue by providing an architecture,an automated scraping that would specifically work for the website you want to work with , with the help of Selenium. 
 
-In this particular one my main aim was to target clothing brands in a specific location, whose details can be extracted by the script,and can be later used to contact them for various purposes(in my case to contact the for enhancing their profile for a much more interactive view.
+In this particular one my main aim was to target the Facebook profiles of clothing brands in a specific location, whose details can be extracted by the script,and can be later used to contact them for various purposes(in my case to contact the for enhancing their profile for a much more interactive view).
 The script searches for the given input and then extracts a users details like, name,address,phone number,e-mail and their website.
 
 
@@ -18,11 +18,11 @@ Workflow:
 
 3.After going on nth URL, it looks for the details by visiting the html attributes like phone number,address,website and name.
 
-4.It then creates a jsonbin (if it doesnt already exits),and then inserts the details in it.
+4.It then creates a jsonbin (if it does not exit),and then inserts the details in it.
 
-5.Creates a backup CSV file where we can perform certain operations on it.
+5.Creates a backup CSV file where we can perform certain operations.
 
-6.Saves the data in the bin as soon as ot visits 10 URLs.
+6.Saves the data in the bin as soon as it visits 10 URLs.
 
 
 Features:
@@ -30,7 +30,7 @@ Features:
 
 2.Since Google is a pro for detecting automation , to avoid captcha verification it seraches through bing
 
-3.Addition of random sleep time for a better looking human-like interaction(such as appealing like a human is typing in the search bar), to avoid in any interference
+3.Addition of random sleep time for a better disguise of human-like interaction(such as appealing like a human showing as if it is typing in the search bar), to avoid any interference
 
 4.It detects any facebook's login popup and closes it so you dont have to login
 
