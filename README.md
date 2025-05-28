@@ -44,4 +44,11 @@ Features:
 
 
 
+Execution:
+Since it works on chrome ,download chrome drive according to you architecture from here: https://developer.chrome.com/docs/chromedriver/downloads
+Before running the script, make sure that you have the required modules, if not run the commands in the terminal(mentioned in requirement.txt)
+
+
+
+
 
