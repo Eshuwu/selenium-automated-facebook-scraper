@@ -51,8 +51,8 @@ How to run this:
 1. download the webdriver and in the 16th line replace it with your driver's location
 2. download all the required modules in the project's directory itself
 3. make sure to make an account on jsonbin.io and replace it with your key at 19th line
-4.In the 24-25th line replace with the path of where you want to store yopur excel file.
-5.Youre good to run the script,just make sure during the process none of the CSV files or the json bin is running.
+4. In the 24-25th line replace with the path of where you want to store yopur excel file.
+5. Youre good to run the script,just make sure during the process none of the CSV files or the json bin is running.
 
 
 
