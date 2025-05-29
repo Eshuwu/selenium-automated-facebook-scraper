@@ -3,7 +3,7 @@ This is an automated scraper that uses python integrated with selenium
 
 What it does?
 
-Well recently I saw many people in sales/data analysis,that they have to manually look for information to be analysed
+Well recently I saw many people in sales/data analysis, they have to manually look for information to be analysed
 
 The script solves this issue by providing an architecture,an automated scraping that would specifically work for the website you want to work with , with the help of Selenium. 
 
@@ -43,7 +43,7 @@ Features:
 8.shows all the status of the process, such as visitng a site, skipping a group and extracted information along with the percentage of the details grabbed.
 
 
-Note: Do noy commit any changes, please fork it.
+
 Execution:
 Since it works on chrome ,download chrome drive according to you architecture from here: https://developer.chrome.com/docs/chromedriver/downloads
 Before running the script, make sure that you have the required modules, if not run the commands in the terminal(mentioned in requirement.txt)
